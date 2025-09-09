@@ -10,7 +10,7 @@ int main(){
      
    for (int  i = 0; i < taille; i++)
     { 
-        printf("entre l'element du tableau:", i+1);
+        printf("entre l'element %d du tableau:", i+1);
         scanf("%d", &T[i]);
     }
 
